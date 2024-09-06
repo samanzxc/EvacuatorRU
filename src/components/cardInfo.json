@@ -2,7 +2,7 @@
   {
     "cardId": 63,
     "cardName": "Эвакуатор",
-    "cardImg": "evacuator1.png",
+    "cardImg": "https://sun9-78.userapi.com/impg/CB18-lXKsdLgtaYIEnNkenCwnKZna2dM1jiK8Q/YH8Ubewgvg0.jpg?size=414x328&quality=96&sign=ae230563292f8b73860cdffbcd3fc879&type=album",
     "priceAuto": 5000,
     "priceMoto": 3000,
     "priceOffRoad": null,
@@ -14,19 +14,19 @@
   {
     "cardId": 63,
     "cardName": "Эвакуатор",
-    "cardImg": "evacuator2.png",
+    "cardImg": "https://sun9-55.userapi.com/impg/xhu6IVhCe7LUwras7aHO9gtOJqXvVwpedpC0qw/mmw5IQ8JAO0.jpg?size=414x328&quality=96&sign=32eb37fd08b08ac44689ddf1b6e44f1a&type=album",
     "priceAuto": 4000,
     "priceMoto": 3000,
     "priceOffRoad": 4000,
     "priceBuss": 6000,
     "priceNoCity": 50,
     "cardeLocation": "Москва, ул Пушкина",
-    "cardDesc": "Эвакуатор авто. Всегда на связи! Быстро и надежно"
+    "cardDesc": "Круглосуточно. Стоянка в районе метро Технопарк, быстро доберусь в любую точку города."
   },
   {
     "cardId": 63,
     "cardName": "Эвакуатор",
-    "cardImg": "evacuator1.png",
+    "cardImg": "https://sun9-78.userapi.com/impg/CB18-lXKsdLgtaYIEnNkenCwnKZna2dM1jiK8Q/YH8Ubewgvg0.jpg?size=414x328&quality=96&sign=ae230563292f8b73860cdffbcd3fc879&type=album",
     "priceAuto": 5000,
     "priceMoto": 3000,
     "priceOffRoad": null,
@@ -38,13 +38,13 @@
   {
     "cardId": 63,
     "cardName": "Эвакуатор",
-    "cardImg": "evacuator2.png",
+    "cardImg": "https://sun9-55.userapi.com/impg/xhu6IVhCe7LUwras7aHO9gtOJqXvVwpedpC0qw/mmw5IQ8JAO0.jpg?size=414x328&quality=96&sign=32eb37fd08b08ac44689ddf1b6e44f1a&type=album",
     "priceAuto": 4000,
     "priceMoto": 3000,
     "priceOffRoad": 4000,
     "priceBuss": 6000,
     "priceNoCity": 50,
     "cardeLocation": "Москва, ул Пушкина",
-    "cardDesc": "Эвакуатор авто. Всегда на связи! Быстро и надежно"
+    "cardDesc": "Круглосуточно. Стоянка в районе метро Технопарк, быстро доберусь в любую точку города."
   }
 ]
