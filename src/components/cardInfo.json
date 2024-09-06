@@ -1,0 +1,50 @@
+[
+  {
+    "cardId": 63,
+    "cardName": "Эвакуатор",
+    "cardImg": "evacuator1.png",
+    "priceAuto": 5000,
+    "priceMoto": 3000,
+    "priceOffRoad": null,
+    "priceBuss": null,
+    "priceNoCity": 50,
+    "cardeLocation": "Москва, ул Пушкина",
+    "cardDesc": "Эвакуатор авто. Всегда на связи! Быстро и надежно"
+  },
+  {
+    "cardId": 63,
+    "cardName": "Эвакуатор",
+    "cardImg": "evacuator2.png",
+    "priceAuto": 4000,
+    "priceMoto": 3000,
+    "priceOffRoad": 4000,
+    "priceBuss": 6000,
+    "priceNoCity": 50,
+    "cardeLocation": "Москва, ул Пушкина",
+    "cardDesc": "Эвакуатор авто. Всегда на связи! Быстро и надежно"
+  },
+  {
+    "cardId": 63,
+    "cardName": "Эвакуатор",
+    "cardImg": "evacuator1.png",
+    "priceAuto": 5000,
+    "priceMoto": 3000,
+    "priceOffRoad": null,
+    "priceBuss": null,
+    "priceNoCity": 50,
+    "cardeLocation": "Москва, ул Пушкина",
+    "cardDesc": "Эвакуатор авто. Всегда на связи! Быстро и надежно"
+  },
+  {
+    "cardId": 63,
+    "cardName": "Эвакуатор",
+    "cardImg": "evacuator2.png",
+    "priceAuto": 4000,
+    "priceMoto": 3000,
+    "priceOffRoad": 4000,
+    "priceBuss": 6000,
+    "priceNoCity": 50,
+    "cardeLocation": "Москва, ул Пушкина",
+    "cardDesc": "Эвакуатор авто. Всегда на связи! Быстро и надежно"
+  }
+]
