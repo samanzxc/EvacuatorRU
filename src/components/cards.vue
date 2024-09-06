@@ -10,7 +10,7 @@ import cardInfo from './cardInfo.json'
         <div class="card__title">{{ card.cardName }}</div>
         <div class="card__info">
           <div class="card__img">
-            <img :src="`/src/assets/img/evacuator${index+1}.png`" alt="imgAuto" />
+            <img :src="`/EvacuatorRU/assets/${card.cardImg}`" alt="imgAuto" />
           </div>
           <div class="card__price">
             <div class="card__price__tab">
