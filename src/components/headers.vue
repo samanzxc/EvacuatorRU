@@ -6,7 +6,7 @@ let openMenu = ref(false)
 
 <template>
   <header id="header">
-    <router-link to="/"><img src="/src/assets/img/Logo.png" alt="logo" class="header__logo" /></router-link>
+    <router-link to="EvacuatorRU"><img src="/src/assets/img/Logo.png" alt="logo" class="header__logo" /></router-link>
     <div class="header__nav" :class="{show:openMenu}">
       <img src="/src/assets/img/close.png" alt="close" class="close" @click="openMenu = false">
       <nav>

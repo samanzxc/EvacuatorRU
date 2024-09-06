@@ -5,7 +5,7 @@ import addPost from "./pages/addPost.vue";
 export default createRouter({
     history: createWebHistory(),
     routes: [
-        {path: '/', component: mains},
+        {path: '/EvacuatorRU', component: mains},
         {path: '/addPost', component: addPost}
     ]
 })
